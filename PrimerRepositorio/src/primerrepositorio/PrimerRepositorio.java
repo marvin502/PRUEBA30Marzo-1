@@ -22,7 +22,7 @@ public class PrimerRepositorio {
         System.out.println("Telefono: 37070944");
         
         System.out.println("Nombre: Denis Joel Cifuentes Cano");
-        System.out.println("Direccion: Zona 1, Chiantla");
+        System.out.println("Direccion: Zona 1, Chiantla Huehuetenango");
         System.out.println("Telefono: 45883960");
         
         System.out.println("Nombre: Geovanni Alfredo Argueta Anzueto");
